@@ -4,9 +4,9 @@
 
 🙋‍♀️ 简介(Introduction)
 
-Nilotica是一个为 [Nilotica](https://github.com/Lumosylva/Nilotica) 创建的组织，专注于 Nilotica 量化系统的开发和研究。
+Nilotica是一个为 [Nilotica](https://github.com/Lumosylva/Nilotica) 项目创建的组织，专注于 Nilotica 量化系统的开发和研究。
 
-Nilotica is an organization created for [Nilotica](https://github.com/Lumosylva/Nilotica) to focus on the development and research of the Nilotica quantization system.
+Nilotica is an organization created for the [Nilotica](https://github.com/Lumosylva/Nilotica) project, focusing on the development and research of the Nilotica quantization system.
 <!--
 
 **Here are some ideas to get you started:**
